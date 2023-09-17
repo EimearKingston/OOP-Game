@@ -43,8 +43,22 @@ How it is called:
         Witch object with kwargs
         
         witch:Witch=Witch("name”, lives=0)
+
         
         ^set ‘lives’ kwarg=0 if need to bypass game to see results of other functions e.g. __eq__
+
+![image](https://github.com/EimearKingston/OOP-Game/assets/144938447/d63ae142-7f40-4d3b-bd79-af16ef53cd34)
+
+
+![image](https://github.com/EimearKingston/OOP-Game/assets/144938447/268ddeb8-10db-4dea-a110-ffb107e3ed88)  
+
+![image](https://github.com/EimearKingston/OOP-Game/assets/144938447/72fe5328-e591-49aa-a4a2-c28406801332)  
+
+![Uploading image.png…]()
+
+![Uploading image.png…]()
+
+
         
 
 
