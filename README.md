@@ -15,21 +15,36 @@ Witch, Warlock, and Wizard classes are child classes of Player() (grandchild cla
 the same functions and attributes of Player except type is passed as the name of the class.
 
 How it is called:
+
         witch:Witch=Witch(“name”) #for object of game to be initialised
+        
         print(witch.__str__()) #prints result of game
+        
         enemy:Enemy=Enemy() #creates Enemy class object
+        
         player: Player=Player("name", "Warlock") #creates player class object
+        
         warlock:Warlock=Warlock("name") #creates warlock class object
+        
         print(enemy.set__escore(5)) #sets score/lives of enemy object to 5
+        
         print(enemy.docstring()) #prints docstring of Enemy class
+        
         duel:Duel=Duel("name", "Wizard”) #calls game directly
+        
         print(witch==duel) #calls equality function
+        
         print(witch==player)
+        
         print(witch==warlock)
+        
         witch:Witch=Witch("name", abilities="Ice", lives=5, age=20, weapon="Wand") #^^example of
+        
         Witch object with kwargs
+        
         witch:Witch=Witch("name”, lives=0)
-        ^set ‘lives’ kwarg=0 if need to bypass game to see results of other
-        functions e.g. __eq__
+        
+        ^set ‘lives’ kwarg=0 if need to bypass game to see results of other functions e.g. __eq__
+        
 
 
