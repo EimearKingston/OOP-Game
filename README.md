@@ -47,6 +47,9 @@ How it is called:
         
         ^set ‘lives’ kwarg=0 if need to bypass game to see results of other functions e.g. __eq__
 
+
+Example of call: witch:Witch=Witch("name", abilities="Ice", lives=5, age=20, weapon="Wand") 
+
 ![image](https://github.com/EimearKingston/OOP-Game/assets/144938447/d63ae142-7f40-4d3b-bd79-af16ef53cd34)
 
 
@@ -54,9 +57,10 @@ How it is called:
 
 ![image](https://github.com/EimearKingston/OOP-Game/assets/144938447/72fe5328-e591-49aa-a4a2-c28406801332)  
 
-![Uploading image.png…]()
+![image](https://github.com/EimearKingston/OOP-Game/assets/144938447/493f45a7-36d8-4913-a1bf-b392ff4dbd7b)
 
-![Uploading image.png…]()
+
+
 
 
         
